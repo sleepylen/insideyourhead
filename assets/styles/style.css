@@ -65,6 +65,13 @@ body {
 }
 
 /* ===========================Header====================================== */
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
 .header__container {
     display: flex;
     flex-wrap: wrap;
@@ -91,5 +98,10 @@ body {
     color: darkslategray;
 }
 
+.header__link:hover,
+.header__link:focus,
+.header__link:active {
+    opacity: .75;
+}
 
 /* =========================Offer======================================= */

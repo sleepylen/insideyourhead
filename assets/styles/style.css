@@ -72,7 +72,7 @@ body {
     justify-content: space-between;
 }
 
-.header__list {
+.header__item {
     display: flex;
     flex-wrap: wrap;
 }

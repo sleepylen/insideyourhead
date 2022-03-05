@@ -65,7 +65,16 @@ body {
 }
 
 /* ===========================Header====================================== */
+.header__container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+}
 
-
+.header__item {
+    display: flex;
+    flex-wrap: wrap;
+}
 
 /* =========================Offer======================================= */

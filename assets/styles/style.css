@@ -103,6 +103,10 @@ body {
 .header__link:active {
     opacity: .75;
 }
+ol.points li {
+    position: relative;
+    margin-bottom: 50px;
+}
 
 /* =========================News======================================= */
 

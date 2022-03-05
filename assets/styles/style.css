@@ -72,5 +72,9 @@ body {
     justify-content: space-between;
 }
 
+.header__list {
+    display: flex;
+    flex-wrap: wrap;
+}
 
 /* =========================Offer======================================= */

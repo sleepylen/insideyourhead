@@ -44,7 +44,7 @@ body {
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    color: #000000;
+    color: darkslategray;
 }
 
 .wrapper {
@@ -116,14 +116,20 @@ ol.points li {
     height: 100vh;
     background: url(../img/landing.jpg) no-repeat center;
     background-size: cover;
-    padding-top: 260px;
+    padding-top: 300px;
 }
 
 .intro__title {
     font-weight: 800;
     font-size: 60px;
     line-height: 60px;
-    color: darkslategray;
+    margin-bottom: 22px;
+}
+
+.intro__subtitle {
+    font-size: 30px;
+    line-height: 24px;
+    margin-bottom: 59px;
 }
 
 /* =========================News======================================= */

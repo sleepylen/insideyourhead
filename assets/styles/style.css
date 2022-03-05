@@ -113,6 +113,8 @@ ol.points li {
 
 .intro {
     height: 100vh;
+    background: url(../img/landing.jpg) no-repeat center;
+    background-size: cover;
 }
 
 /* =========================News======================================= */

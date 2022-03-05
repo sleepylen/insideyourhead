@@ -59,7 +59,7 @@ body {
 }
 
 [class*="__container"] {
-    max-width: 1176px;
+    max-width: 1440px;
     margin: 0px auto;
     padding: 0px 15px;
 }

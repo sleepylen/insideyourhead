@@ -113,51 +113,53 @@ ol.points li {
 
 .intro {
     height: 100vh;
-    /* =========================News======================================= */
+}
 
-    .news__block-text {
-        text-align: center;
-        margin: 0px 0px 40px 0px;
-    }
+/* =========================News======================================= */
 
-    .news__items {
-        display: flex;
-        max-width: 1146px;
-        margin: 0px auto;
-    }
+.news__block-text {
+    text-align: center;
+    margin: 0px 0px 40px 0px;
+}
 
-    .news__item {
-        flex: 0 1 33.333%;
-    }
+.news__items {
+    display: flex;
+    max-width: 1146px;
+    margin: 0px auto;
+}
 
-    .item-news {
-        flex-direction: column;
-        align-items: center;
-        background: #FFFFFF;
-        box-shadow: 40px 15px 136px rgba(0, 0, 0, 0.2);
-        border-radius: 20px;
-        display: flex;
-        text-align: center;
-        padding: 0px 0px 30px 0px;
-        margin: 0px 30px 30px 0px;
-    }
+.news__item {
+    flex: 0 1 33.333%;
+}
 
-    .item-news__image {
-        margin: 0px 0px 30px 0px;
-        border-radius: 20px 20px 0px 0px;
-    }
+.item-news {
+    flex-direction: column;
+    align-items: center;
+    background: #FFFFFF;
+    box-shadow: 40px 15px 136px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    display: flex;
+    text-align: center;
+    padding: 0px 0px 30px 0px;
+    margin: 0px 30px 30px 0px;
+}
 
-    .item-news__title {
-        font-family: "Josefin Sans", "Jost", sans-serif;
-        font-style: normal;
-        font-weight: 600;
-        font-size: 32px;
-        line-height: 130%;
-    }
+.item-news__image {
+    margin: 0px 0px 30px 0px;
+    border-radius: 20px 20px 0px 0px;
+}
 
-    .item-news__text {
-        font-size: 16px;
-        line-height: 160%;
-        opacity: 0.7;
-        margin: 20px 0px 30px 0px;
-    }
+.item-news__title {
+    font-family: "Josefin Sans", "Jost", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 130%;
+}
+
+.item-news__text {
+    font-size: 16px;
+    line-height: 160%;
+    opacity: 0.7;
+    margin: 20px 0px 30px 0px;
+}

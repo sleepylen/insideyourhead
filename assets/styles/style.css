@@ -208,6 +208,13 @@ info.news__block-text {
 }
 
 .contant__title {
+    font-family: "Josefin Sans", "Jost", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 130%;
+    margin: 0px 0px 20px 0px;
+    font-size: 43px;
+    color: #000000;
     text-align: center;
-    padding: 15px;
+    margin: 0px 0px 40px 0px;
 }

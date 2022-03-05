@@ -72,9 +72,13 @@ body {
     justify-content: space-between;
 }
 
-.header__item {
+.header__list {
     display: flex;
     flex-wrap: wrap;
+}
+
+.hader__item {
+    margin-right: 80px;
 }
 
 /* =========================Offer======================================= */
